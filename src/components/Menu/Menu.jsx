@@ -5,7 +5,7 @@ import './menu.css'
 function Menu(props){
     return(
         <div>
-            <h1>Mi primera App</h1>
+            <h1>Mi Emprendimiento</h1>
             <Link to="/Sebas">
                 <button>Sebas</button>
             </Link>
