@@ -7,7 +7,7 @@ function Navbar()
             <ul>
                 <li><a href="/">Inicio</a></li>
                 <li><a href="/Sebas">Sobre nosotros</a></li>
-                <li><a href="*">Contacto</a></li>
+                <li><a href="/contact-us">Contacto</a></li>
             </ul>
             </nav>
         </div>
