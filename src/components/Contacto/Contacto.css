@@ -1,0 +1,13 @@
+h2{
+    color: gold;
+    text-align: left;
+}
+.informacion{
+    color: black;
+    text-align: left;
+    color: white;
+}
+.datos{
+    display: flex;
+    gap : 30px;
+}
