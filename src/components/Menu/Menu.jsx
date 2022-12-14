@@ -6,9 +6,6 @@ function Menu(props){
     return(
         <div>
             <h1>Mi Emprendimiento</h1>
-            <Link to="/Sebas">
-                <button>Sebas</button>
-            </Link>
         </div>
     );
 }
