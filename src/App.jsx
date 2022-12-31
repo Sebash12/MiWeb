@@ -5,6 +5,7 @@ import Sebas from './components/Sebas/Sebas'
 import Error from './components/Error/Error'
 import Navbar from './components/Navbar/Navbar'
 import Contacto from './components/Contacto/Contacto'
+import Compras from './components/Compras/Compras'
 import { BrowserRouter, Routes, Route } from "react-router-dom";  
 
 
@@ -22,6 +23,7 @@ class App extends React.Component {
             <Route path='*' element={<Error />} />
             <Route path="/Sebas" element={<Sebas/>} />
             <Route path="/contact-us" element={<Contacto/>}/>
+            <Route path="/compras" element={<Compras/>}/>
           </Routes>
         </BrowserRouter>
       </div>

@@ -9,5 +9,8 @@ h2{
 }
 .datos{
     display: flex;
-    gap : 30px;
+    gap : 60px;
+}
+form{
+width: 100vw;
 }
